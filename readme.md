@@ -33,4 +33,4 @@ Midlle age: between 40 and 69
 ![hg](img/EvolutionCovidLMidlleAge.png)
 
 Elderly: More than 70 years old
-![hg](img/EvolutionCovidLMidlleAge.png)
+![hg](img/EvolutionCovidElderly.png)
